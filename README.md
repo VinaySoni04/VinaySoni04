@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, Java, Spring Boot and MySQL**
 
-- 📫 How to reach me **vinay042801@gmail.com**
+- 📫 You can reach me at **vinay042801@gmail.com**
 
 - 📄 Know about my education/work/experiences [https://drive.google.com/file/d/1s1udt9Bs5lul02YzhZjoOrgCE7NX7rnx/view?usp=drive_link](https://drive.google.com/file/d/1s1udt9Bs5lul02YzhZjoOrgCE7NX7rnx/view?usp=drive_link)
 
