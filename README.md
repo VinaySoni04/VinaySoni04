@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **ReactJs, Core Java, Spring Boot, Hibernate, REST-APIs, MySQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VinaySoni04](https://github.com/VinaySoni04)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/VinaySoni04)
 
 - 💬 Ask me about **Data Structures and Algorithms, Java, Spring Boot and MySQL**
 
 - 📫 You can reach me at **vinay042801@gmail.com**
 
-- 📄 Know about my education/work/experiences [https://drive.google.com/file/d/1s1udt9Bs5lul02YzhZjoOrgCE7NX7rnx/view?usp=drive_link](https://drive.google.com/file/d/1s1udt9Bs5lul02YzhZjoOrgCE7NX7rnx/view?usp=drive_link)
+- 📄 Know about my education/work/experiences [Resume Link](https://drive.google.com/file/d/1SsBhTFfifKBwWYmF6iTEVYuPIgsv2pNp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
