@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [CryptoPulse](https://github.com/VinaySoni04/CryptoPulse)
 
-- 🌱 I’m currently learning **ReactJs, Core Java, Spring Boot, Hibernate, REST-APIs, MySQL**
+- 🌱 I’m currently learning **ReactJs and AWS**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/VinaySoni04)
 
