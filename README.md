@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/VinaySoni04)
 
-- 💬 Ask me about **Data Structures and Algorithms, Java, Spring Boot and MySQL**
+- 💬 Ask me about **Data Structures and Algorithms, Java, Spring Boot, HTML, CSS, Javascript, ReactJs and MySQL**
 
 - 📫 You can reach me at **vinay042801@gmail.com**
 
